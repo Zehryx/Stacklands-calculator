@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stacklands-calculator/static/css/main.675f6025.css",
+    "main.js": "/Stacklands-calculator/static/js/main.9afee5b3.js",
+    "index.html": "/Stacklands-calculator/index.html",
+    "main.675f6025.css.map": "/Stacklands-calculator/static/css/main.675f6025.css.map",
+    "main.9afee5b3.js.map": "/Stacklands-calculator/static/js/main.9afee5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.675f6025.css",
+    "static/js/main.9afee5b3.js"
+  ]
+}
